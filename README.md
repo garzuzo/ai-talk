@@ -24,6 +24,6 @@ Para poder hacer uso de los datasets:
 ```python
 import pandas as pd
 
-url="https://raw.githubusercontent.com/garzuzo/ai-talk/master/datasets/peliculas.csv"
+url="https://raw.githubusercontent.com/garzuzo/ai-talk/main/datasets/peliculas.csv"
 pd.read_csv(url)
 ```
